@@ -1,4 +1,4 @@
-# BASIC-SMART-CONTRACT-DEVELOPMENT
+# Simple Token Transfer Smart Contract
 
 "COMPANY": COTECH IT SOLUTIONS
 
